@@ -15,7 +15,7 @@ main {
   background-color: #FBFFF4;
   width: 100%;
   height: 100%;
-  flex-wrap: wrap;
+  flex-flow: column wrap;
 }
 
 .item {
